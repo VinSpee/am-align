@@ -1,0 +1,24 @@
+{
+  "name": "am-align",
+  "homepage": "https://github.com/VinSpee/am-align",
+  "authors": [
+    "Vince Speelman <v@vinspee.me>"
+  ],
+  "description": "CSS vertical-alignment utilities",
+  "main": "index.css",
+  "keywords": [
+    "css",
+    "am-css",
+    "am",
+    "suit",
+    "suitcss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
