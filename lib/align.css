@@ -18,9 +18,9 @@
 // transform-style: preserve-3d;
 //to parent elements
 [data-am-align~="verticalMiddle"] {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+  position: relative !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
 }
 
 [data-am-align~="top"] {
