@@ -23,3 +23,8 @@
 [data-am-align~="top"] {
   vertical-align: top !important;
 }
+
+[data-am-align~="center"] {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
